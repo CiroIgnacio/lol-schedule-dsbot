@@ -1,0 +1,19 @@
+{
+  "name": "schedule-lol",
+  "version": "1.0.0",
+  "description": "get schedule of lol next matchs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ciro villasanti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  }
+}
